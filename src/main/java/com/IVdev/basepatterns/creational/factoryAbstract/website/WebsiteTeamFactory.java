@@ -1,9 +1,9 @@
-package com.IVdev.basepatterns.creational.website;
+package com.IVdev.basepatterns.creational.factoryAbstract.website;
 
-import com.IVdev.basepatterns.creational.Developer;
+import com.IVdev.basepatterns.creational.factoryAbstract.Developer;
 import com.IVdev.basepatterns.creational.ProjectManager;
-import com.IVdev.basepatterns.creational.ProjectTeamFactory;
 import com.IVdev.basepatterns.creational.Tester;
+import com.IVdev.basepatterns.creational.factoryAbstract.ProjectTeamFactory;
 
 public class WebsiteTeamFactory implements ProjectTeamFactory {
     @Override

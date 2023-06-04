@@ -1,6 +1,7 @@
-package com.IVdev.basepatterns.creational.banking;
+package com.IVdev.basepatterns.creational.factoryAbstract.banking;
 
-import com.IVdev.basepatterns.creational.Developer;
+
+import com.IVdev.basepatterns.creational.factory.Developer;
 
 public class JavaDeveloper implements Developer {
     @Override

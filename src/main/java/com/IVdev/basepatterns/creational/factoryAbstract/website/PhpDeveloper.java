@@ -1,6 +1,7 @@
-package com.IVdev.basepatterns.creational.website;
+package com.IVdev.basepatterns.creational.factoryAbstract.website;
 
-import com.IVdev.basepatterns.creational.Developer;
+
+import com.IVdev.basepatterns.creational.factoryAbstract.Developer;
 
 public class PhpDeveloper implements Developer {
     @Override

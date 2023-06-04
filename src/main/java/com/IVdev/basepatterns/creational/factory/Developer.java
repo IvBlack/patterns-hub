@@ -1,4 +1,4 @@
-package com.IVdev.basepatterns.creational;
+package com.IVdev.basepatterns.creational.factory;
 
 public interface Developer {
     void writeCode();
