@@ -1,0 +1,5 @@
+package com.IVdev.basepatterns.creational.prototype;
+
+public interface Copyable {
+    Object copy();
+}

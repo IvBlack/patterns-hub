@@ -14,12 +14,12 @@ public abstract class Notifier {
 
     public void notifyManager(String message, int level) {
         if(level>=priority) {
-            write(message);
+           // write(message);
         }
         if(nextNotifier!=null) {
             nextNotifier.notifyManager(message, level);
         }
 
-        public abstract void write(String message);
+        //public abstract void write(String message);
     }
 }

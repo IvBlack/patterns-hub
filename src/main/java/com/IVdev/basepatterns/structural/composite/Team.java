@@ -1,4 +1,4 @@
-package com.IVdev.basepatterns.composite;
+package com.IVdev.basepatterns.structural.composite;
 
 import java.util.ArrayList;
 import java.util.List;
